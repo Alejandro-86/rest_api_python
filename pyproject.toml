@@ -9,6 +9,7 @@ packages = [{include = "rest_api_python"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 requests = "^2.31.0"
+pre-commit = "^3.6.0"
 
 
 [build-system]
